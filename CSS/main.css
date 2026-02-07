@@ -994,3 +994,9 @@ body button {
   padding: 6px 4px;
   border-radius: 50%;
 }
+
+.fa-angle-left:before {
+  content: "\f104";
+  padding: 6px 4px;
+  border-radius: 50%;
+}
